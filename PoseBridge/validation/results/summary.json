@@ -1,0 +1,38 @@
+{
+  "mediapipe": "0.10.35",
+  "model_sha256": "d32182bc8aa37c4087a108d35430ded94649d0b0e398f7fc8bd6f08273d43064",
+  "reference_range_deg": [
+    1.0934263148926675,
+    90.98762235893817
+  ],
+  "conditions": {
+    "front": {
+      "frames": 74,
+      "detected": 74,
+      "usable": 74,
+      "bias": -24.566138415652286,
+      "mae": 27.975924071633532
+    },
+    "oblique": {
+      "frames": 74,
+      "detected": 74,
+      "usable": 74,
+      "bias": -1.5633418729382331,
+      "mae": 8.686232855759837
+    },
+    "side": {
+      "frames": 74,
+      "detected": 74,
+      "usable": 74,
+      "bias": 0.9756359536869829,
+      "mae": 7.599334083435614
+    },
+    "oblique_legs_hidden": {
+      "frames": 74,
+      "detected": 74,
+      "usable": 0,
+      "bias": null,
+      "mae": null
+    }
+  }
+}

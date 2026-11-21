@@ -1,0 +1,26 @@
+/Binaries/
+/DerivedDataCache/
+/Intermediate/
+/Saved/
+/.vs/
+/.vscode/
+/Chat-History.md
+/*.code-workspace
+/*.sln
+/Config/User*.ini
+/Config/DefaultEditorPerProjectUserSettings.ini
+.env
+.env.*
+*.pem
+*.key
+__pycache__/
+*.pyc
+
+# Third-party source packs and retargeted animations require a separate license.
+/Content/StoneGolem/
+/Content/CombatMagicAnims/
+/Content/AthleteMind/Animations/Golem_*.uasset
+/Content/__ExternalActors__/StoneGolem/
+/Content/__ExternalObjects__/StoneGolem/
+/Content/Developers/
+/Content/Collections/
